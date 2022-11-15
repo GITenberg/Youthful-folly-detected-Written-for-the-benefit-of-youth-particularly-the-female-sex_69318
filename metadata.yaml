@@ -1,0 +1,34 @@
+_repo: Youthful-folly-detected-Written-for-the-benefit-of-youth-particularly-the-female-sex_69318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-11-09'
+identifiers:
+  gutenberg: '69318'
+language: en
+pgterms:marc904: https://archive.org/details/youthfulfollydet00walpiala/page/n1/mode/2up
+pgterms:marc905: 20220214230956anonymous
+pgterms:marc906: '1804'
+pgterms:marc907: US
+production_note: Charlene Taylor, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: The Observatory Press,1804.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Youthful folly detected: Written for the benefit of youth, particularly the
+  female sex'
+url: http://www.gutenberg.org/ebooks/69318
