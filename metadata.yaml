@@ -1,5 +1,8 @@
 _repo: Youthful-folly-detected-Written-for-the-benefit-of-youth-particularly-the-female-sex_69318
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69318-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69318#Youthful-folly-detected-Written-for-the-benefit-of-youth-particularly-the-female-sex
 gutenberg_issued: '2022-11-09'
 identifiers:
   gutenberg: '69318'
